@@ -30,7 +30,11 @@
   </summary>  
   
   #### Видео (98m42s)  
-  [Функции, векторы, словари, множества](https://youtube.com/playlist?list=PLQsYkTzyA74BsvfADnOkDQSxYcCK3a3w8)    
+  [Функции, векторы, словари, множества](https://youtube.com/playlist?list=PLQsYkTzyA74BsvfADnOkDQSxYcCK3a3w8)   
+  
+  #### Тест
+  [https://docs.google.com/forms/d/e/1FAIpQLSeffrisyajAZs1SaCz6m9vhPy299gzSHUhfna2p_qTz_J2p9g/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeffrisyajAZs1SaCz6m9vhPy299gzSHUhfna2p_qTz_J2p9g/viewform)
+  
   #### Задачи  
   [Связные списки](tasks/W02.md)   
   #### Доп.материалы (опционально)  
