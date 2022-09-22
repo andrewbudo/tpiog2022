@@ -4,6 +4,7 @@
 ## Литература  
 [telegram канал с литературой](https://t.me/joinchat/AAAAAE1yUq2Kh6WdPCtjMA)  
 [Лаптев В.В. С++ Объектно-ориентированное программирование](https://drive.google.com/file/d/1XX328815qJdR23imp7Jl9GeP22nW-OgS/view?usp=sharing)  
+[Система контроля версий git](https://drive.google.com/file/d/1ygcYTCnFJcJcnP_4OoUOxFT9iBT8le-w/view?usp=sharing)
 
 <details>
   <summary>  
