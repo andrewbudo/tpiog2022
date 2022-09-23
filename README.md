@@ -42,7 +42,6 @@
   [Краткий курс по связным спискам](https://leetcode.com/explore/learn/card/linked-list/)  
 </details>
 
-
 <details>
   <summary>  
   
@@ -55,4 +54,22 @@
   [Стек и очередь](tasks/W03.md)   
   #### Доп.материалы (опционально)  
   [Краткий курс по cтеку и очереди](https://leetcode.com/explore/learn/card/queue-stack/)  
+</details>
+
+<details>
+  <summary>  
+  
+  ### Неделя 04  
+  </summary>  
+  
+  #### Видео (92m43s)  
+  [Ввод/вывод, исключения и перегрузка операторов](https://youtube.com/playlist?list=PLQsYkTzyA74BK8Cy9tieaaGy4NVjqbeHm)    
+  #### Теория  
+  [Быстрая сортировка](https://drive.google.com/file/d/1OntQKFn94NznMwKYTKYUAYrC6IT5l3UK/view?usp=sharing)  
+  [Сортировка слиянием](https://drive.google.com/file/d/1IYBrGDXXwDFrF19l_6W4ZFB3Rei1C4na/view?usp=sharing)  
+  [Медианы и порядковые статистики](https://drive.google.com/file/d/1tgnm3XFR40XqGUcPGXEO8JuKwjaqKN1l/view?usp=sharing)  
+  #### Задачи  
+  [Сортировки и порядковые статистики](tasks/W04.md)   
+  #### Доп.материалы (опционально)  
+  [Краткий курс по сортировкам](https://leetcode.com/explore/learn/card/sorting/)  
 </details>
