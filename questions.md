@@ -788,7 +788,7 @@
 788. [Каково назначение и различия использования std::variant и std::any?](answers/788.md)
 789. [Какие улучшения получил std::search в С++ 17?](answers/789.md)
 790. [Что такое copy elision и когда становится возможным? Какие особенности для разных стандартов?](answers/790.md)
-791. [Что такое Return Value Optimization?](answers/791.md)
+791. [**Что такое Return Value Optimization?**](answers/791.md)
 792. [Поясните принципы SOLID.](answers/792.md)
 793. [Поясните принципы KISS.](answers/793.md)
 794. [Поясните принципы YAGNI.](answers/794.md)
