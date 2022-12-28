@@ -128,3 +128,18 @@
 
 </details>
 
+<details>
+  <summary>  
+  
+  ### Неделя 08  
+  </summary>  
+  
+  #### Видео (103m16s)  
+  [Итераторы, алгоритмы и контейнеры](https://youtube.com/playlist?list=PLQsYkTzyA74DZW-Lmb431BlTx9aFr75XJ)    
+  #### Теория   
+  [Деревья с произвольным числом потомков (курс на leetcode)](https://leetcode.com/explore/learn/card/n-ary-tree/)      
+  #### Задачи  
+  [Деревья](tasks/W08.md)   
+
+</details>
+
